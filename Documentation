@@ -4,6 +4,7 @@ In Windows go to powershell and type Python. It will open the application.
 Commands
   Python - To start the REPL Window
   CTRL + Z - End the REPL Window
+  CTRL + C - To close the loop within REPL window
   _ (Underscore) - To print the last output from the REPL
 Signification Whitespace
   Requires readable code
@@ -18,3 +19,31 @@ Python Culture
 Python Standard Library
   import libraryName. Ex import math
   Get help for the library. help(LibraryName). Ex : help(math)
+Scalary Types and Collections(Important!)
+  int - 
+    hold unlimited number of digit
+    can user binary,octane or hexa values in this.
+  float
+    any numbers with decimal will be interpreted as float
+  None
+    To hold NUll Value
+    used "is" operator to compare. Ex: a is none
+  bool
+    It does returns the truthy value as result not the actual value
+Relational Operators
+  ==   !=  <  <=  >  >=
+Control Flow
+  Conditional Statement
+   -  if True:
+        print('Its True');
+   -  if 
+      elif
+      else
+      
+    - for loop
+    - while loop
+    - break - to exit the loop
+    
+   
+  
+  
