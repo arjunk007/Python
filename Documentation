@@ -16,3 +16,5 @@ Significate White space rules (Programming as Guido indented/intended it)
 Python Culture
   Python.org - Documentation - PEP Index
 Python Standard Library
+  import libraryName. Ex import math
+  Get help for the library. help(LibraryName). Ex : help(math)
