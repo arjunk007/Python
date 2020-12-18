@@ -1,0 +1,18 @@
+Python
+Download from Python.org
+In Windows go to powershell and type Python. It will open the application. 
+Commands
+  Python - To start the REPL Window
+  CTRL + Z - End the REPL Window
+  _ (Underscore) - To print the last output from the REPL
+Signification Whitespace
+  Requires readable code
+  No Clutter
+Significate White space rules (Programming as Guido indented/intended it)
+  Prefer four spaces
+  Never mix spaces and tabs
+  Be consistent on consecutive lines
+  Only deviate to improve readability
+Python Culture
+  Python.org - Documentation - PEP Index
+Python Standard Library
